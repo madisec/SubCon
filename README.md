@@ -1,2 +1,4 @@
 # SubCon
-Mix some tools for subdomains  discovery, and mange with python.
+Combination of several tools to automate subdomain discovery, and mange with python.
+
+# Completing
